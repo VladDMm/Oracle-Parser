@@ -1,3 +1,0 @@
-﻿  Parser.cpp
-D:\Visual Studio Projects\Parser\Parser.cpp(23,8): warning C4101: 'stmts': unreferenced local variable
-  Parser.vcxproj -> D:\Visual Studio Projects\Parser\x64\Debug\Parser.exe
